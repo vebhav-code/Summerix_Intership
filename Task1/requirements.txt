@@ -1,0 +1,8 @@
+# Packages used by this project.
+# Developed and tested with Python 3.12, pandas 3.0, numpy 2.4, matplotlib 3.10, seaborn 0.13.
+# Also tested with pandas 2.2 / numpy 1.26 / matplotlib 3.8 / seaborn 0.13.
+pandas>=1.5
+numpy>=1.23
+matplotlib>=3.5
+seaborn>=0.12
+jupyter
